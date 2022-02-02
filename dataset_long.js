@@ -1,4 +1,4 @@
-const countries = [{
+{"countries":[{ 
         icon: "🇦🇩",
         name: "Andorra",
         abbr: "AD",
@@ -1962,17 +1962,5 @@ const countries = [{
             "",
         ],
     }
-];
-
-export const groupedCountries = [{
-        label: "Suggested",
-        options: countries.filter((c) => c.suggested),
-    },
-    {
-        label: "All Countries",
-        options: countries.filter((c) => !c.suggested),
-    },
-];
-
-
-export default countries;
+]
+}
