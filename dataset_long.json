@@ -60,6 +60,23 @@
       "url": ["https://doi.org/10.3390/ijns7010015"],
       "CountTest": ["6"],
       "Detail": ["The country NBS program is covered by France"]
+    },    
+	{
+      "icon": "🇵🇰",
+      "name": "Pakistan",
+      "abbr": "PK",
+      "endocrine": [""],
+      "aminoacid": [""],
+      "organicAcid": [""],
+      "fattyAcid": [""],
+      "miscellaneous": [""],
+      "Hemo": [""],
+      "source": [
+        "Biochemical Screening of Intellectually Disabled Patients: A Stepping Stone to Initiate a Newborn Screening Program in Pakistan"
+      ],
+      "url": ["https://doi.org/10.3389/fneur.2019.00762"],
+      "CountTest": ["0"],
+      "Detail": [""]
     },
     {
       "icon": "🇦🇴",
